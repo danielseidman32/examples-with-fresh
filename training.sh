@@ -294,3 +294,9 @@ dos2unix website_manager.sh monitor.sh
 sleep 2
 
 ./website_manager.sh start
+
+sleep 2
+
+echo "Now going to hibernate..."
+
+tail -f /dev/null
