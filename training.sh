@@ -1,6 +1,4 @@
-#!/bin/bash
-export TERM=xterm
-
+#!/usr/bin/env bash
 cat << 'END' > website_manager.sh
 #!/usr/bin/env bash
 
